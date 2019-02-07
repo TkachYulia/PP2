@@ -1,0 +1,10 @@
+C:\C#\lab1\task2\bin\Debug\netcoreapp2.1\task2.deps.json
+C:\C#\lab1\task2\bin\Debug\netcoreapp2.1\task2.runtimeconfig.json
+C:\C#\lab1\task2\bin\Debug\netcoreapp2.1\task2.runtimeconfig.dev.json
+C:\C#\lab1\task2\bin\Debug\netcoreapp2.1\task2.dll
+C:\C#\lab1\task2\bin\Debug\netcoreapp2.1\task2.pdb
+C:\C#\lab1\task2\obj\Debug\netcoreapp2.1\task2.csproj.CoreCompileInputs.cache
+C:\C#\lab1\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfoInputs.cache
+C:\C#\lab1\task2\obj\Debug\netcoreapp2.1\task2.AssemblyInfo.cs
+C:\C#\lab1\task2\obj\Debug\netcoreapp2.1\task2.dll
+C:\C#\lab1\task2\obj\Debug\netcoreapp2.1\task2.pdb

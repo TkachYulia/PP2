@@ -1,0 +1,10 @@
+C:\C#\lab1\task22\obj\Debug\netcoreapp2.1\task22.csproj.CoreCompileInputs.cache
+C:\C#\lab1\task22\obj\Debug\netcoreapp2.1\task22.AssemblyInfoInputs.cache
+C:\C#\lab1\task22\obj\Debug\netcoreapp2.1\task22.AssemblyInfo.cs
+C:\C#\lab1\task22\bin\Debug\netcoreapp2.1\task22.deps.json
+C:\C#\lab1\task22\bin\Debug\netcoreapp2.1\task22.runtimeconfig.json
+C:\C#\lab1\task22\bin\Debug\netcoreapp2.1\task22.runtimeconfig.dev.json
+C:\C#\lab1\task22\bin\Debug\netcoreapp2.1\task22.dll
+C:\C#\lab1\task22\bin\Debug\netcoreapp2.1\task22.pdb
+C:\C#\lab1\task22\obj\Debug\netcoreapp2.1\task22.dll
+C:\C#\lab1\task22\obj\Debug\netcoreapp2.1\task22.pdb

@@ -1,0 +1,11 @@
+C:\C#\lab2\ext3\bin\Debug\netcoreapp2.1\ext3.deps.json
+C:\C#\lab2\ext3\bin\Debug\netcoreapp2.1\ext3.runtimeconfig.json
+C:\C#\lab2\ext3\bin\Debug\netcoreapp2.1\ext3.runtimeconfig.dev.json
+C:\C#\lab2\ext3\bin\Debug\netcoreapp2.1\ext3.dll
+C:\C#\lab2\ext3\bin\Debug\netcoreapp2.1\ext3.pdb
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.csprojAssemblyReference.cache
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.csproj.CoreCompileInputs.cache
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.AssemblyInfoInputs.cache
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.AssemblyInfo.cs
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.dll
+C:\C#\lab2\ext3\obj\Debug\netcoreapp2.1\ext3.pdb

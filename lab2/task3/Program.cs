@@ -51,22 +51,5 @@ namespace ext3
             }
         }
 
-     /* private static void F1()
-        {
-            DirectoryInfo dir = new DirectoryInfo(@"C:\FPC\3.0.4");
-            var items = dir.GetFileSystemInfos();
-            foreach (var i in items)
-            {
-                if (i.GetType() == typeof(DirectoryInfo))
-                {
-                    Console.ForegroundColor = ConsoleColor.White;
-                }
-                else
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                }
-                Console.WriteLine(i.Name);
-            }
-        }*/
     }
 }

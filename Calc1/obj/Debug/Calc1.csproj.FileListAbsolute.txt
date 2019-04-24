@@ -1,0 +1,10 @@
+C:\Users\Юлия\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\Юлия\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\Юлия\source\repos\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.cache
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\Юлия\source\repos\Calc1\Calc1\obj\Debug\Calc1.pdb
